@@ -1,0 +1,99 @@
+{
+    "0.00013": {
+        "Window_0": {
+            "train": 10216,
+            "validation": 4896,
+            "test": 9314
+        },
+        "Window_1": {
+            "train": 9082,
+            "validation": 9314,
+            "test": 11055
+        },
+        "Window_2": {
+            "train": 14312,
+            "validation": 11055,
+            "test": 7966
+        },
+        "Window_3": {
+            "train": 20471,
+            "validation": 7966,
+            "test": 7777
+        },
+        "Window_4": {
+            "train": 19122,
+            "validation": 7777,
+            "test": 6612
+        },
+        "Window_5": {
+            "train": 15845,
+            "validation": 6612,
+            "test": 5838
+        },
+        "Window_6": {
+            "train": 14490,
+            "validation": 5838,
+            "test": 4854
+        },
+        "Window_7": {
+            "train": 12552,
+            "validation": 4854,
+            "test": 4900
+        },
+        "Window_8": {
+            "train": 10792,
+            "validation": 4900,
+            "test": 4970
+        },
+        "Window_9": {
+            "train": 9856,
+            "validation": 4970,
+            "test": 5203
+        },
+        "Window_10": {
+            "train": 9972,
+            "validation": 5203,
+            "test": 5480
+        },
+        "Window_11": {
+            "train": 10275,
+            "validation": 5480,
+            "test": 6571
+        },
+        "Window_12": {
+            "train": 10784,
+            "validation": 6571,
+            "test": 5622
+        },
+        "Window_13": {
+            "train": 12151,
+            "validation": 5622,
+            "test": 4514
+        },
+        "Window_14": {
+            "train": 12294,
+            "validation": 4514,
+            "test": 3834
+        },
+        "Window_15": {
+            "train": 10238,
+            "validation": 3834,
+            "test": 3168
+        },
+        "Window_16": {
+            "train": 8450,
+            "validation": 3168,
+            "test": 6112
+        },
+        "Window_17": {
+            "train": 7102,
+            "validation": 6112,
+            "test": 5211
+        },
+        "Window_18": {
+            "train": 9382,
+            "validation": 5211,
+            "test": 2262
+        }
+    }
+}

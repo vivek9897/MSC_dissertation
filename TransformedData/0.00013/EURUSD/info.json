@@ -1,0 +1,79 @@
+{
+    "0.00013": {
+        "Window_0": {
+            "train": 5086,
+            "validation": 2210,
+            "test": 3994
+        },
+        "Window_1": {
+            "train": 4378,
+            "validation": 3994,
+            "test": 4135
+        },
+        "Window_2": {
+            "train": 6304,
+            "validation": 4135,
+            "test": 3526
+        },
+        "Window_3": {
+            "train": 8231,
+            "validation": 3526,
+            "test": 3137
+        },
+        "Window_4": {
+            "train": 7762,
+            "validation": 3137,
+            "test": 2501
+        },
+        "Window_5": {
+            "train": 6765,
+            "validation": 2501,
+            "test": 2251
+        },
+        "Window_6": {
+            "train": 5739,
+            "validation": 2251,
+            "test": 2048
+        },
+        "Window_7": {
+            "train": 4853,
+            "validation": 2048,
+            "test": 2102
+        },
+        "Window_8": {
+            "train": 4400,
+            "validation": 2102,
+            "test": 2314
+        },
+        "Window_9": {
+            "train": 4252,
+            "validation": 2314,
+            "test": 2638
+        },
+        "Window_10": {
+            "train": 4516,
+            "validation": 2638,
+            "test": 2490
+        },
+        "Window_11": {
+            "train": 5054,
+            "validation": 2490,
+            "test": 2995
+        },
+        "Window_12": {
+            "train": 5228,
+            "validation": 2995,
+            "test": 2404
+        },
+        "Window_13": {
+            "train": 5585,
+            "validation": 2404,
+            "test": 2490
+        },
+        "Window_14": {
+            "train": 5500,
+            "validation": 2490,
+            "test": 2220
+        }
+    }
+}

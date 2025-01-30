@@ -1,0 +1,29 @@
+{
+    "seed": 42,
+    "sampling": {
+        "thetas": [0.00013, 0.00017, 0.00023], 
+        "window_size": 4, 
+        "shift": 1
+    }, 
+    "trad_dict": {
+    },
+    "DC_dict": {
+        "TMV": "TMV",
+        "OSV": "OSV",
+        "R_DC": "R_DC",
+        "T_DC": "T_DC",
+        "N_DC": {"N_DC": [10, 20, 30, 40, 50]},
+        "C_DC": {"C_DC": [10, 20, 30, 40, 50]},
+        "A_T": {"A_T": [10, 20, 30, 40, 50]},
+        "average_OSV": {"average_OSV": [3, 5, 10]},
+        "average_R_DC": {"average_R_DC": [3, 5, 10]},
+        "average_T_DC": {"average_T_DC": [3, 5, 10]}
+    },
+    "training": {
+        "context_length": 1000, 
+        "lag": 5, 
+        "patience": 3, 
+        "min_evals": 10, 
+        "check_freq": 20000
+    }
+}
